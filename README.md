@@ -9,22 +9,12 @@ This repository contains the code used in our experiments of our paper on [Evalu
 If you use this repository for academic research, you are encouraged to cite our paper:
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2201.06640,
-  doi = {10.48550/ARXIV.2201.06640},
-  
-  url = {https://arxiv.org/abs/2201.06640},
-  
-  author = {Goel, Shashwat and Prabhu, Ameya and Kumaraguru, Ponnurangam},
-  
-  keywords = {Machine Learning (cs.LG), Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Evaluating Inexact Unlearning Requires Revisiting Forgetting},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
-}
-```
+@misc{goel2023adversarial,
+      title={Towards Adversarial Evaluations for Inexact Machine Unlearning}, 
+      author={Shashwat Goel and Ameya Prabhu and Amartya Sanyal and Ser-Nam Lim and Philip Torr and Ponnurangam Kumaraguru},
+      year={2023},
+      eprint={2201.06640},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}```
 
